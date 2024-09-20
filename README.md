@@ -1,4 +1,4 @@
-# Agenda Code Documentation
+# Contact Agenda
 
 ## Introduction
 This program is a simple contact management system. It allows users to add, edit, delete, import, and export contacts. This project is part of a bonus module from the Solyd course.
